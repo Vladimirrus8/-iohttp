@@ -1,0 +1,33 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="python-dotenv" />
+          <option value="python-telegram-bot" />
+          <option value="anyio" />
+          <option value="certifi" />
+          <option value="chardet" />
+          <option value="charset-normalizer" />
+          <option value="googletrans" />
+          <option value="h11" />
+          <option value="h2" />
+          <option value="hpack" />
+          <option value="hstspreload" />
+          <option value="httpcore" />
+          <option value="httpx" />
+          <option value="hyperframe" />
+          <option value="idna" />
+          <option value="psycopg2" />
+          <option value="pyTelegramBotAPI" />
+          <option value="requests" />
+          <option value="rfc3986" />
+          <option value="sniffio" />
+          <option value="urllib3" />
+          <option value="psycopg2-binary" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
